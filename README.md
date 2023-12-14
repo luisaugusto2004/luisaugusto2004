@@ -1,16 +1,13 @@
-### Hi there 👋
+## Oi! Eu sou o Luis Augusto 😎
 
-<!--
-**LuisAugusto1308/LuisAugusto1308** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+- 🌱 Programador C#
+- 😄 Pronomes: Ele/Dele
+- 📘 Cursando análise e desenvolvimento de sistemas - 3/5
+##
+## ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=LuisAugusto1308&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=LuisAugusto1308&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
-Here are some ideas to get you started:
+[![My Skills](https://skillicons.dev/icons?i=cs,unity,mysql)](https://skillicons.dev)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+
+
