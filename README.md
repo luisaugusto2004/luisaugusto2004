@@ -2,7 +2,7 @@
 
 - 🌱 Programador C#
 - 😄 Pronomes: Ele/Dele
-- 📘 Cursando análise e desenvolvimento de sistemas - 3/5
+- 📘 Tecnólogo em Análise e Desenvolvimento de Sistemas
 ##
 ## ![Luis's GitHub stats](https://github-readme-stats.vercel.app/api?username=luisaugusto2004&show_icons=true&theme=radical)  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=luisaugusto2004&layout=donut&theme=radical)](https://github.com/anuraghazra/github-readme-stats)
 
