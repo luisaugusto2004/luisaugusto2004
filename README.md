@@ -7,9 +7,9 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
 
 <h3>Connect with me!</h3>
 
-[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](www.https://www.instagram.com/luisaugusttto/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.https://www.linkedin.com/in/SEUUSERNAME/)
-[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:luisaugusto010203@gmail.com)
+[![Instagram](https://img.shields.io/badge/-Instagram-5174b1?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:1f83b5)](https://www.instagram.com/luisaugusttto/)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-5174b1?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:1f83b5)](https://www.linkedin.com/in/luis-augusto-587054274/)
+[![E-mail](https://img.shields.io/badge/-Email-5174b1?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:luisaugusto010203@gmail.com)
 
 <h3>My Stack</h3>
 <div style="display: inline_block">
