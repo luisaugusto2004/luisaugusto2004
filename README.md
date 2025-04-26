@@ -5,7 +5,13 @@
 <p align="left">Sou tecnólogo em Análise e Desenvolvimento de Sistemas pela faculdade UniAteneu, localizada na Messejana. Tenho interesse em desenvolvimento back-end, especialmente na criação de APIs utilizando a linguagem C#.
 Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implementar soluções inovadoras!</p>
 
-<h3>🤖 Linguagens e tecnologias</h2>
+<h3>Connect with me!</h3>
+
+[![Instagram](https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luisaugusttto/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-augusto-587054274)
+[![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:luisaugusto010203@gmail.com)
+
+<h3>🤖 Linguagens e tecnologias</h3>
 <div style="display: inline_block">
     <img 
         align="center" 
