@@ -11,7 +11,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](www.linkedin.com/in/luis-augusto-587054274)
 [![E-mail](https://img.shields.io/badge/-Email-000?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:luisaugusto010203@gmail.com)
 
-<h3>🤖 Linguagens e tecnologias</h3>
+<h3>My Stack</h3>
 <div style="display: inline_block">
     <img 
         align="center" 
