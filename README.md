@@ -14,41 +14,41 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
 <h3>My Stack</h3>
 <div style="display: inline_block">
     <img 
-        align="center" 
-        alt="HTML"
-        title="HTML" 
+        align="left" 
+        alt="CS"
+        title="CS" 
         width="40px" 
         style="padding-right: 5px;" 
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" 
     />
     <img 
         align="left" 
-        alt="HTML"
-        title="HTML" 
+        alt="VS"
+        title="VS" 
         width="40px" 
         style="padding-right: 5px;" 
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" 
     />
     <img 
         align="left" 
-        alt="HTML"
-        title="HTML" 
+        alt="Unity"
+        title="Unity" 
         width="40px" 
         style="padding-right: 5px;" 
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" 
     />
     <img 
         align="left" 
-        alt="HTML"
-        title="HTML" 
+        alt="MySql"
+        title="MySql" 
         width="40px" 
         style="padding-right: 5px;" 
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" 
     />
     <img 
         align="left" 
-        alt="HTML"
-        title="HTML" 
+        alt="Java"
+        title="Java" 
         width="40px" 
         style="padding-right: 5px;" 
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" 
@@ -87,8 +87,8 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
     />
     <img 
         align="left" 
-        alt="Git" 
-        title="Git"
+        alt="GitHub" 
+        title="GitHub"
         width="40px" 
         style="padding-right: 5px;" 
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" 
