@@ -1,5 +1,6 @@
-<a align="center" href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+&weight=500&duration=3000&pause=1000&color=6b9df0&width=330&height=30&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Luis+Augusto!" alt="Typing SVG" /></a>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=6b9df0&height=120&section=header"/>
 
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+&weight=600&size=30&pause=1000&color=6b9df0&center=true&vCenter=true&width=1000&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Luis+Augusto!" alt="Typing SVG" /></a>
 <p align="left">Sou tecnólogo em Análise e Desenvolvimento de Sistemas pela faculdade UniAteneu, localizada na Messejana.
 Tenho interesse em desenvolvimento back-end, especialmente na criação de APIs utilizando a linguagem C#.
 Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implementar soluções inovadoras!</p>
@@ -9,17 +10,18 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
 <kbd><img align="left" height="200px" src="https://pa1.aminoapps.com/6767/8e9cf53dcecbdf0a62bd04818f3eb9675f8d66b7_hq.gif"/></kbd>
 <kbd><img align="left" height="200px" src="https://i.gifer.com/Bh1W.gif"/></kbd>
 
-
+<div align="center">
 <h3>Connect with me!</h3>
 
 [![Instagram](https://img.shields.io/badge/-Instagram-5174b1?style=for-the-badge&logo=instagram&logoColor=FF00F6&color:1f83b5)](https://www.instagram.com/luisaugusttto/)
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5174b1?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:1f83b5)](https://www.linkedin.com/in/luis-augusto-587054274/)
 [![E-mail](https://img.shields.io/badge/-Email-5174b1?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:luisaugusto010203@gmail.com)
-
+</div>
+<div align="center">
 <h2>My Stack</h2>
 <div style="display: inline_block">
     <img 
-        align="left" 
+        align="center" 
         alt="CS"
         title="CS" 
         width="40px" 
@@ -27,7 +29,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="VS"
         title="VS" 
         width="40px" 
@@ -35,7 +37,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="Unity"
         title="Unity" 
         width="40px" 
@@ -43,7 +45,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="MySql"
         title="MySql" 
         width="40px" 
@@ -51,7 +53,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="Java"
         title="Java" 
         width="40px" 
@@ -59,7 +61,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="HTML"
         title="HTML" 
         width="40px" 
@@ -67,7 +69,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="CSS" 
         title="CSS"
         width="40px" 
@@ -75,7 +77,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="JavaScript" 
         title="JavaScript"
         width="40px" 
@@ -83,7 +85,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="Git" 
         title="Git"
         width="40px" 
@@ -91,7 +93,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
         src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
     />
     <img 
-        align="left" 
+        align="center" 
         alt="GitHub" 
         title="GitHub"
         width="40px" 
@@ -99,12 +101,13 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
         src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" 
     />
 </div>
+</div>
 <br>
-<br>
+
+<div align="center">
 <h2>Github Stats</h2>
-<div align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=luisaugusto2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisaugusto2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=luisaugusto2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="180" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisaugusto2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ###
