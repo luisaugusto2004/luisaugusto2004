@@ -5,10 +5,12 @@
 Tenho interesse em desenvolvimento back-end, especialmente na criação de APIs utilizando a linguagem C#.
 Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implementar soluções inovadoras!</p>
 <br>
-<kbd><img align="left" height="200px" src="https://i.pinimg.com/originals/47/c9/55/47c9552e5cc72583c617c30cd378fbf0.gif"/></kbd>
-<kbd><img align="left" height="200px" src="https://giffiles.alphacoders.com/171/171315.gif"/></kbd>
-<kbd><img align="left" height="200px" src="https://pa1.aminoapps.com/6767/8e9cf53dcecbdf0a62bd04818f3eb9675f8d66b7_hq.gif"/></kbd>
-<kbd><img align="left" height="200px" src="https://i.gifer.com/Bh1W.gif"/></kbd>
+<div align="center">
+    <kbd><img align="left" height="200px" src="https://i.pinimg.com/originals/47/c9/55/47c9552e5cc72583c617c30cd378fbf0.gif"/></kbd>
+    <kbd><img align="left" height="200px" src="https://giffiles.alphacoders.com/171/171315.gif"/></kbd>
+    <kbd><img align="left" height="200px" src="https://pa1.aminoapps.com/6767/8e9cf53dcecbdf0a62bd04818f3eb9675f8d66b7_hq.gif"/></kbd>
+    <kbd><img align="left" height="200px" src="https://i.gifer.com/Bh1W.gif"/></kbd>
+</div>
 
 <div align="center">
 <h3>Connect with me!</h3>
@@ -17,97 +19,98 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-5174b1?style=for-the-badge&logo=linkedin&logoColor=FF00F6&color:1f83b5)](https://www.linkedin.com/in/luis-augusto-587054274/)
 [![E-mail](https://img.shields.io/badge/-Email-5174b1?style=for-the-badge&logo=microsoft-outlook&logoColor=007BFF)](mailto:luisaugusto010203@gmail.com)
 </div>
+
 <div align="center">
-<h2>My Stack</h2>
-<div style="display: inline_block">
-    <img 
-        align="center" 
-        alt="CS"
-        title="CS" 
-        width="40px" 
-        style="padding-right: 5px;" 
-        src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" 
-    />
-    <img 
-        align="center" 
-        alt="VS"
-        title="VS" 
-        width="40px" 
-        style="padding-right: 5px;" 
-        src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" 
-    />
-    <img 
-        align="center" 
-        alt="Unity"
-        title="Unity" 
-        width="40px" 
-        style="padding-right: 5px;" 
-        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" 
-    />
-    <img 
-        align="center" 
-        alt="MySql"
-        title="MySql" 
-        width="40px" 
-        style="padding-right: 5px;" 
-        src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" 
-    />
-    <img 
-        align="center" 
-        alt="Java"
-        title="Java" 
-        width="40px" 
-        style="padding-right: 5px;" 
-        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" 
-    />
-    <img 
-        align="center" 
-        alt="HTML"
-        title="HTML" 
-        width="40px" 
-        style="padding-right: 5px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
-    />
-    <img 
-        align="center" 
-        alt="CSS" 
-        title="CSS"
-        width="40px" 
-        style="padding-right: 5px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
-    />
-    <img 
-        align="center" 
-        alt="JavaScript" 
-        title="JavaScript"
-        width="40px" 
-        style="padding-right: 5px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
-    />
-    <img 
-        align="center" 
-        alt="Git" 
-        title="Git"
-        width="40px" 
-        style="padding-right: 5px;" 
-        src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
-    />
-    <img 
-        align="center" 
-        alt="GitHub" 
-        title="GitHub"
-        width="40px" 
-        style="padding-right: 5px;" 
-        src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" 
-    />
-</div>
+    <h2>My Stack</h2>
+        <div style="display: inline_block">
+            <img 
+                align="center" 
+                alt="CS"
+                title="CS" 
+                width="40px" 
+                style="padding-right: 5px;" 
+                src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" 
+            />
+            <img 
+                align="center" 
+                alt="VS"
+                title="VS" 
+                width="40px" 
+                style="padding-right: 5px;" 
+                src="https://github.com/tandpfun/skill-icons/raw/main/icons/VisualStudio-Dark.svg" 
+            />
+            <img 
+                align="center" 
+                alt="Unity"
+                title="Unity" 
+                width="40px" 
+                style="padding-right: 5px;" 
+                src="https://github.com/tandpfun/skill-icons/raw/main/icons/Unity-Dark.svg" 
+            />
+            <img 
+                align="center" 
+                alt="MySql"
+                title="MySql" 
+                width="40px" 
+                style="padding-right: 5px;" 
+                src="https://github.com/tandpfun/skill-icons/raw/main/icons/MySQL-Dark.svg" 
+            />
+            <img 
+                align="center" 
+                alt="Java"
+                title="Java" 
+                width="40px" 
+                style="padding-right: 5px;" 
+                src="https://github.com/tandpfun/skill-icons/raw/main/icons/Java-Dark.svg" 
+            />
+            <img 
+                align="center" 
+                alt="HTML"
+                title="HTML" 
+                width="40px" 
+                style="padding-right: 5px;" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" 
+            />
+            <img 
+                align="center" 
+                alt="CSS" 
+                title="CSS"
+                width="40px" 
+                style="padding-right: 5px;" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" 
+            />
+            <img 
+                align="center" 
+                alt="JavaScript" 
+                title="JavaScript"
+                width="40px" 
+                style="padding-right: 5px;" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" 
+            />
+            <img 
+                align="center" 
+                alt="Git" 
+                title="Git"
+                width="40px" 
+                style="padding-right: 5px;" 
+                src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" 
+            />
+            <img 
+                align="center" 
+                alt="GitHub" 
+                title="GitHub"
+                width="40px" 
+                style="padding-right: 5px;" 
+                src="https://github.com/tandpfun/skill-icons/raw/main/icons/Github-Dark.svg" 
+            />
+        </div>
 </div>
 <br>
 
 <div align="center">
-<h2>Github Stats</h2>
-  <img src="https://github-readme-stats.vercel.app/api?username=luisaugusto2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="180" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisaugusto2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="180" alt="languages graph"  />
+    <h2>Github Stats</h2>
+    <img src="https://github-readme-stats.vercel.app/api?username=luisaugusto2004&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=false" height="180" alt="stats graph"  />
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=luisaugusto2004&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=tokyonight&hide_border=false" height="180" alt="languages graph"  />
 </div>
 
 ###
