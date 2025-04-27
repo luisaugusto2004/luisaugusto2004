@@ -7,6 +7,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
 <kbd><img align="left" height="200px" src="https://i.pinimg.com/originals/47/c9/55/47c9552e5cc72583c617c30cd378fbf0.gif"/></kbd>
 <kbd><img align="left" height="200px" src="https://giffiles.alphacoders.com/171/171315.gif"/></kbd>
 <kbd><img align="left" height="200px" src="https://pa1.aminoapps.com/6767/8e9cf53dcecbdf0a62bd04818f3eb9675f8d66b7_hq.gif"/></kbd>
+<kbd><img align="left" height="200px" src="https://i.gifer.com/Bh1W.gif"/></kbd>
 
 
 <h3>Connect with me!</h3>
