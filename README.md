@@ -1,6 +1,6 @@
 <img align="right" height="230px" src="https://i.pinimg.com/originals/47/c9/55/47c9552e5cc72583c617c30cd378fbf0.gif"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code+&weight=600&size=25&pause=1000&center=true&width=435&height=40&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Luis+Augusto!)](https://git.io/typing-svg)
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code+&weight=500&duration=3000&pause=1000&color=6b9df0&width=330&height=30&lines=Ol%C3%A1%2C+meu+nome+%C3%A9+Luis+Augusto!" alt="Typing SVG" /></a>
 
 <p align="left">Sou tecnólogo em Análise e Desenvolvimento de Sistemas pela faculdade UniAteneu, localizada na Messejana.
 Tenho interesse em desenvolvimento back-end, especialmente na criação de APIs utilizando a linguagem C#.
