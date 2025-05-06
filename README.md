@@ -10,6 +10,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
     <kbd><img align="left" height="200px" src="https://giffiles.alphacoders.com/171/171315.gif"/></kbd>
     <kbd><img align="left" height="200px" src="https://pa1.aminoapps.com/6767/8e9cf53dcecbdf0a62bd04818f3eb9675f8d66b7_hq.gif"/></kbd>
     <kbd><img align="left" height="200px" src="https://i.gifer.com/Bh1W.gif"/></kbd>
+    <kbd><img align="left" height="200px" src="https://i.pinimg.com/originals/59/43/8c/59438c7511df24028b8f6d7a4832fe02.gif"/></kbd>
 </div>
 
 <div align="center">
@@ -29,7 +30,7 @@ Sou apaixonado por tecnologia e estou sempre aprendendo coisas novas para implem
                 title="CS" 
                 width="40px" 
                 style="padding-right: 5px;" 
-                src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" 
+                src="https://github.com/tandpfun/skill-icons/blob/main/icons/CS.svg" 
             />
             <img 
                 align="center" 
